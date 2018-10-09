@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.png"/>
+	<link rel="icon" type="image/jpg" href="images/icons/12340.jpg"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -322,7 +322,7 @@
 
 
 	<!-- Title page -->
-	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('images/bg-01.jpg');">
+	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('https://res-console.cloudinary.com/moon-dock-group/thumbnails/v1/image/upload/v1523835346/MjMxNjQyNDlfMTQzNzkyMzgzMDQwMzE1XzEyMzYyNzY0NjAzNjEwODkwMjRfbg==/grid');">
 		<h2 class="ltext-105 cl0 txt-center">
 			About
 		</h2>
@@ -388,7 +388,7 @@
 				<div class="order-md-1 col-11 col-md-5 col-lg-4 m-lr-auto p-b-30">
 					<div class="how-bor2">
 						<div class="hov-img0">
-							<img src="images/about-02.jpg" alt="IMG">
+							<img src="https://scontent.flos6-1.fna.fbcdn.net/v/t1.0-9/39442432_1970263093024958_6844937698017280000_n.jpg?_nc_cat=109&_nc_eui2=AeEW2T36kelCw6gGNz-gLCWgi4OqGs25nv3e3y3pKofnGW4G36ZO5g9A1SYRPDnNCEXBp2crGA5mzU5rHza-ZxLoqcqrfRZJlZav5umaENPFPA&oh=33827e60a2c8beb2e30d3d5ed0290223&oe=5C23E0D9" alt="IMG">
 						</div>
 					</div>
 				</div>

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Blog</title>
+	<title>Public Diary</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.png"/>
+	<link rel="icon" type="image/jpg" href="images/icons/12340.jpg"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -47,7 +47,7 @@
 							Help & FAQs
 						</a>
 
-						<a href="#" class="flex-c-m trans-04 p-lr-25">
+						<a href="My Account.php" class="flex-c-m trans-04 p-lr-25">
 							My Account
 						</a>
 
@@ -79,6 +79,7 @@
 									<li><a href="contact-us.php">Contact Us</a></li>
 									<li><a href="blog-detail.php">Blog Detail</a></li>
 									<li><a href="about.php">About Us</a></li>
+									<li><a href="login.php">Login</a></li>
 								</ul>
 							</li>
 							<li class="active-menu">
@@ -91,6 +92,9 @@
 
 							<li>
 								<a href="about.php">About Us</a>
+							</li>
+							<li>
+								<a href="login.php">Login</a>
 							</li>
 						</ul>
 					</div>	
@@ -117,7 +121,7 @@
 		<div class="wrap-header-mobile">
 			<!-- Logo moblie -->		
 			<div class="logo-mobile">
-				<a href="index.php"><img src="images/icons/12340.jpg.png" alt="PUBLIC-DIARY"></a>
+				<a href="index.php"><img src="images/icons/12340.jpg" alt="PUBLIC-DIARY"></a>
 			</div>
 
 			<!-- Icon header -->
@@ -147,7 +151,7 @@
 		<!-- Menu Mobile -->
 		<div class="menu-mobile">
 			<ul class="topbar-mobile">
-				<!-- <li>
+				<li>
 					<div class="left-top-bar">
 						Free shipping for standard order over $100
 					</div>
@@ -159,7 +163,7 @@
 							Help & FAQs
 						</a>
 
-						<a href="#" class="flex-c-m p-lr-10 trans-04">
+						<a href="My Account.php" class="flex-c-m p-lr-10 trans-04">
 							My Account
 						</a>
 
@@ -171,7 +175,7 @@
 							USD
 						</a>
 					</div>
-				</li> -->
+				</li> 
 			</ul>
 
 			<ul class="main-menu-m">
@@ -311,7 +315,7 @@
 	<!-- Title page -->
 	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('images/bg-02.jpg');">
 		<h2 class="ltext-105 cl0 txt-center">
-			Blog
+			Public Diary
 		</h2>
 	</section>	
 
